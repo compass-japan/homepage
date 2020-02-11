@@ -1,6 +1,2 @@
-# homepage
-# 修正ルール
-* forkすること
-* branchを切り修正すること 例：feature_add_footer
-* pull requestを出すこと
-* master push は禁止されてます
+開発Flow
+* https://github.com/compass-japan/homepage/wiki/%E9%96%8B%E7%99%BAFlow(fork%E7%B7%A8)
